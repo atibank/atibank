@@ -1,0 +1,216 @@
+Uri: https://bot.talkbank.io/uploads/files/Условия использования предоплаченных банковских карт банка «КУБ» (АО).pdf
+File Name: C:\Downloaded Web Sites\talkbank.io\uploads\files\Условия использования предоплаченных банковских карт банка «КУБ» (АО).pdf
+Content Type: application/pdf
+
+Uri: https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\particles.js\2.0.0\particles.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&subset=latin,cyrillic
+File Name: C:\Downloaded Web Sites\talkbank.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\talkbank.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\talkbank.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\talkbank.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\talkbank.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\talkbank.io\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/65001487
+File Name: C:\Downloaded Web Sites\talkbank.io\watch\65001487
+Content Type: image/gif
+
+Uri: https://stat.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-1.0.min.css
+File Name: C:\Downloaded Web Sites\talkbank.io\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-carousel-1.0.min.css
+File Name: C:\Downloaded Web Sites\talkbank.io\css\tilda-carousel-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\talkbank.io\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\talkbank.io\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\talkbank.io\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\talkbank.io\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zero-gallery-1.0.min.css
+File Name: C:\Downloaded Web Sites\talkbank.io\css\tilda-zero-gallery-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\talkbank.io\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-1.0.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\tilda-zero-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/ya-share.js
+File Name: C:\Downloaded Web Sites\talkbank.io\js\ya-share.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3065-3265-4038-a233-383361313838/-/empty/__2020-03-04__131809.png
+File Name: C:\Downloaded Web Sites\talkbank.io\tild3065-3265-4038-a233-383361313838\-\empty\__2020-03-04__131809.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3135-6235-4532-b164-663538353931/bg5.svg
+File Name: C:\Downloaded Web Sites\talkbank.io\tild3135-6235-4532-b164-663538353931\bg5.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3265-6235-4264-b436-383535386663/_.png
+File Name: C:\Downloaded Web Sites\talkbank.io\tild3265-6235-4264-b436-383535386663\_.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3332-3431-4730-b430-653664366466/bg1_2.svg
+File Name: C:\Downloaded Web Sites\talkbank.io\tild3332-3431-4730-b430-653664366466\bg1_2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3338-6562-4832-a464-613061626165/Montserrat-Thin.woff
+File Name: C:\Downloaded Web Sites\talkbank.io\tild3338-6562-4832-a464-613061626165\Montserrat-Thin.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3366-6239-4638-b838-376532316138/Montserrat-Light.woff
+File Name: C:\Downloaded Web Sites\talkbank.io\tild3366-6239-4638-b838-376532316138\Montserrat-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3533-3433-4665-b561-656265393132/Montserrat-Regular.woff
+File Name: C:\Downloaded Web Sites\talkbank.io\tild3533-3433-4665-b561-656265393132\Montserrat-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3763-3064-4334-b364-306130336130/favicon_1.ico
+File Name: C:\Downloaded Web Sites\talkbank.io\tild3763-3064-4334-b364-306130336130\favicon_1.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild3937-6638-4333-a336-383163306261/Montserrat-Medium.woff
+File Name: C:\Downloaded Web Sites\talkbank.io\tild3937-6638-4333-a336-383163306261\Montserrat-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild6261-3231-4232-b130-613063303036/Montserrat-SemiBold_.woff
+File Name: C:\Downloaded Web Sites\talkbank.io\tild6261-3231-4232-b130-613063303036\Montserrat-SemiBold_.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild6334-6335-4434-a266-393565353537/Group_36.svg
+File Name: C:\Downloaded Web Sites\talkbank.io\tild6334-6335-4434-a266-393565353537\Group_36.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6439-3162-4339-a137-303165343436/bot.gif
+File Name: C:\Downloaded Web Sites\talkbank.io\tild6439-3162-4339-a137-303165343436\bot.gif
+Content Type: image/gif
+
+Uri: https://static.tildacdn.com/tild6461-6535-4230-a337-396637393933/Montserrat-Bold.woff
+File Name: C:\Downloaded Web Sites\talkbank.io\tild6461-6535-4230-a337-396637393933\Montserrat-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild6530-3030-4438-b663-363433316232/buff_new_low.gif
+File Name: C:\Downloaded Web Sites\talkbank.io\tild6530-3030-4438-b663-363433316232\buff_new_low.gif
+Content Type: image/gif
+
+Uri: https://talkbank.io/
+File Name: C:\Downloaded Web Sites\talkbank.io\index.htm
+Content Type: text/html
+
+Uri: https://talkbank.io/messenger
+File Name: C:\Downloaded Web Sites\talkbank.io\messenger.html
+Content Type: text/html
+
+Uri: https://talkbank.io/messenger/?start=newlanding
+File Name: C:\Downloaded Web Sites\talkbank.io\messenger\index.htm
+Content Type: text/html
+
+Uri: https://talkbank.io/tariffs
+File Name: C:\Downloaded Web Sites\talkbank.io\tariffs.html
+Content Type: text/html
+
+Uri: https://threejs.org/examples/js/libs/stats.min.js
+File Name: C:\Downloaded Web Sites\talkbank.io\examples\js\libs\stats.min.js
+Content Type: application/javascript
+
+Uri: https://vk.com/rtrg?p=VK-RTRG-1310892-b8L07
+File Name: C:\Downloaded Web Sites\talkbank.io\rtrg
+Content Type: image/gif
+
+Uri: https://ws.tildacdn.com/project2375557/tilda-blocks-2.14.css?t=1648439502
+File Name: C:\Downloaded Web Sites\talkbank.io\project2375557\tilda-blocks-2.14.css
+Content Type: text/css
+
+Uri: https://ws.tildacdn.com/project2375557/tilda-blocks-2.7.js?t=1648439502
+File Name: C:\Downloaded Web Sites\talkbank.io\project2375557\tilda-blocks-2.7.js
+Content Type: application/javascript
+
+Uri: https://www.tkbbank.ru/documents/talkbank.pdf/
+File Name: C:\Downloaded Web Sites\talkbank.io\documents\talkbank.pdf\talkbank_060320.pdf
+Content Type: application/pdf
+
